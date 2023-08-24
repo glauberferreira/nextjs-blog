@@ -1,6 +1,6 @@
 html,
 body {
-  background-color: blue;
+  /* background-color: blue; */
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: red;
+  color: #0070f3;
   text-decoration: none;
 }
 
